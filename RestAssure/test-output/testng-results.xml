@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5358" started-at="2017-12-14T16:54:28Z" finished-at="2017-12-14T16:54:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5358" started-at="2017-12-14T16:54:28Z" finished-at="2017-12-14T16:54:33Z">
+      <class name="ModifyMyOrder.SampleTest">
+        <test-method status="PASS" signature="detailedOrderStatusResponse()[pri:0, instance:ModifyMyOrder.SampleTest@e9a829]" name="detailedOrderStatusResponse" duration-ms="4357" started-at="2017-12-14T11:54:28Z" finished-at="2017-12-14T11:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detailedOrderStatusResponse -->
+        <test-method status="PASS" signature="orderDetailByEmailIdResponse()[pri:0, instance:ModifyMyOrder.SampleTest@e9a829]" name="orderDetailByEmailIdResponse" duration-ms="463" started-at="2017-12-14T11:54:32Z" finished-at="2017-12-14T11:54:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderDetailByEmailIdResponse -->
+        <test-method status="PASS" signature="orderStatusResponse()[pri:0, instance:ModifyMyOrder.SampleTest@e9a829]" name="orderStatusResponse" duration-ms="518" started-at="2017-12-14T11:54:33Z" finished-at="2017-12-14T11:54:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderStatusResponse -->
+      </class> <!-- ModifyMyOrder.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
